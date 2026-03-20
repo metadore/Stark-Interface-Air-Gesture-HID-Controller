@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arduino-Uno%20R4-blue?style=for-the-badge&logo=arduino">
+  <img src="WhatsApp Image 2026-03-20 at 8.30.09 PM.jpeg">
   <img src="https://img.shields.io/badge/HID-Mouse%20Controller-00ffcc?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
