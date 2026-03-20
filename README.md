@@ -13,7 +13,7 @@
   <img src="WhatsApp Image 2026-03-20 at 8.30.22 PM.jpeg">
   <img src="WhatsApp Image 2026-03-20 at 8.30.23 PM.jpeg">
   <img src="WhatsApp Image 2026-03-20 at 8.30.28 PM (1).jpeg">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+  <img src="WhatsApp Image 2026-03-20 at 8.30.28 PM.jpeg">
 </p>
 
 ---
