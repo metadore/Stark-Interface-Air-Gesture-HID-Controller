@@ -30,11 +30,7 @@
 
 ---
 
-## 🖼️ SYSTEM PREVIEW
 
-<p align="center">
-  <img src="add-your-image-link-here" width="650" style="border-radius:15px; box-shadow: 0 0 20px cyan;">
-</p>
 
 ---
 
